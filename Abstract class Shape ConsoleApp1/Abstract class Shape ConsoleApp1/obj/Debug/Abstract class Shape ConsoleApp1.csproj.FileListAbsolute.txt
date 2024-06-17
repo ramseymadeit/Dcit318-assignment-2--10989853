@@ -1,0 +1,7 @@
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\obj\Debug\Abstract class Shape ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\obj\Debug\Abstract class Shape ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\bin\Debug\Abstract class Shape ConsoleApp1.exe.config
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\bin\Debug\Abstract class Shape ConsoleApp1.exe
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\bin\Debug\Abstract class Shape ConsoleApp1.pdb
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\obj\Debug\Abstract class Shape ConsoleApp1.exe
+C:\Users\Ramsey's Fire\source\repos\Abstract class Shape ConsoleApp1\Abstract class Shape ConsoleApp1\obj\Debug\Abstract class Shape ConsoleApp1.pdb
