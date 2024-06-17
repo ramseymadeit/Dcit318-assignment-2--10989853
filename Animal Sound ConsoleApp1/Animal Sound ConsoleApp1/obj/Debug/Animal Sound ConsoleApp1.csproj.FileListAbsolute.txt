@@ -1,0 +1,7 @@
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\bin\Debug\Animal Sound ConsoleApp1.exe.config
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\bin\Debug\Animal Sound ConsoleApp1.exe
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\bin\Debug\Animal Sound ConsoleApp1.pdb
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\obj\Debug\Animal Sound ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\obj\Debug\Animal Sound ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\obj\Debug\Animal Sound ConsoleApp1.exe
+C:\Users\Ramsey's Fire\source\repos\Animal Sound ConsoleApp1\Animal Sound ConsoleApp1\obj\Debug\Animal Sound ConsoleApp1.pdb
